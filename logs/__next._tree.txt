@@ -5,4 +5,4 @@
 :HL["/bnb-pms/_next/static/media/e41d5df559864f9e-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"logs","h":96,"c":"$Q2"}]]
-0:{"b":"pWDN-fCI0laOvmsrGrnp_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"2igc-wywOGXE6-MSv_g3a","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
