@@ -1,4 +1,4 @@
 :HL["/bnb-pms/_next/static/chunks/0xf7w5ew8e5s4.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"WlMbyNfx0PlrLOjn-l-7D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pBqv2fJhb-Mik6DQEDXhm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

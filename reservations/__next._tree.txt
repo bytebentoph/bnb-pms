@@ -5,4 +5,4 @@
 :HL["/bnb-pms/_next/static/media/e41d5df559864f9e-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"reservations","h":96,"c":"$Q2"}]]
-0:{"b":"WlMbyNfx0PlrLOjn-l-7D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pBqv2fJhb-Mik6DQEDXhm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
